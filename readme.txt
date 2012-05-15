@@ -1,4 +1,4 @@
-=== WP Super Cache ===
+=== Flickr Blog This to Draft Post ===
 Contributors: donncha, automattic
 Tags: flickr
 Tested up to: 3.2.2
