@@ -7,6 +7,8 @@ Requires at least: 3.0
 
 Instead of publishing, Flickr's "Blog This" function will make a draft post to your blog.
 
+Not needed any more: looks like Flickr has removed the "Blog This" feature.
+
 == Description ==
 
 Flickr is very useful as a hosting platform for your blog's images, and even provides some useful tools to making blogging your photos easier. Unfortunately the resulting blog post doesn't always look right and requires editing afterwards.
